@@ -14,7 +14,6 @@ public class SampleController {
 	
 	@RequestMapping("/bugfix.do")
 	public String bugfix() {
-		
-	return "sample/bugfix";
+		return "sample/bugfix";
 	}
 }
