@@ -37,8 +37,7 @@ public class HomeController {
 	}
 	
 	public String bm() {
-		
-		return "수정이 온도니는 빨개";
+		return "bm";
 	}
 	
 }
